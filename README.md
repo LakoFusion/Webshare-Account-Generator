@@ -196,8 +196,8 @@ Webshare-Account-Generator/
 
 ### Community & Contact
 * **Discord**: [Join the server](https://discord.gg/rxw8Hwk3qA)
-* **YouTube**: [@lakofusion2010](https://www.youtube.com/@lakofusion2010)
-* **TikTok**: [@lakofusion](https://www.tiktok.com/@lakofusion)
+* **TikTok:** [@noxofusion](https://www.tiktok.com/@noxofusion)
+* **YouTube:** [@noxofusion2010](https://www.youtube.com/@noxofusion2010)
 
 ### License
 Distributed under the **MIT License** — see [LICENSE](LICENSE) for full terms.
